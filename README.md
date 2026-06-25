@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/manish780386/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/manish780386/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
