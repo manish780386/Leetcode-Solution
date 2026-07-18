@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/manish780386/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
