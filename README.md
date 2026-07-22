@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
+| [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
+| [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
