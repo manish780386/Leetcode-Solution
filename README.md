@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/manish780386/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/manish780386/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
