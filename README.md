@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
+| [1175-prime-arrangements](https://github.com/manish780386/Leetcode-Solution/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/manish780386/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
