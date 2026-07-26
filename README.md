@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/manish780386/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0888-fair-candy-swap](https://github.com/manish780386/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/manish780386/Leetcode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/manish780386/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/manish780386/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/manish780386/Leetcode-Solution/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/manish780386/Leetcode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/manish780386/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/manish780386/Leetcode-Solution/tree/master/0506-relative-ranks) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/manish780386/Leetcode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
