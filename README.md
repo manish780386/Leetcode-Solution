@@ -145,14 +145,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -169,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
