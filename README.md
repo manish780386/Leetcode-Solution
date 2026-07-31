@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/manish780386/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
