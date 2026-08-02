@@ -157,14 +157,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/manish780386/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/manish780386/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/manish780386/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/manish780386/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0933-number-of-recent-calls](https://github.com/manish780386/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
