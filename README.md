@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/manish780386/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/manish780386/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
