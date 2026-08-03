@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/manish780386/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [1201-ugly-number-iii](https://github.com/manish780386/Leetcode-Solution/tree/master/1201-ugly-number-iii) |
 ## Hash Table
 |  |
