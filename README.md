@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/manish780386/Leetcode-Solution/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0728-self-dividing-numbers](https://github.com/manish780386/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/manish780386/Leetcode-Solution/tree/master/0089-gray-code) |
 | [0645-set-mismatch](https://github.com/manish780386/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manish780386/Leetcode-Solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Dynamic Programming
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/manish780386/Leetcode-Solution/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
