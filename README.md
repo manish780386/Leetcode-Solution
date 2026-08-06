@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/manish780386/Leetcode-Solution/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/manish780386/Leetcode-Solution/tree/master/0400-nth-digit) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/manish780386/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/manish780386/Leetcode-Solution/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
 | ------- |
