@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
