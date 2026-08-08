@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/manish780386/Leetcode-Solution/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/manish780386/Leetcode-Solution/tree/master/0072-edit-distance) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
