@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/manish780386/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/manish780386/Leetcode-Solution/tree/master/0645-set-mismatch) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/manish780386/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -229,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/manish780386/Leetcode-Solution/tree/master/1668-maximum-repeating-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
