@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0099-recover-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0099-recover-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/manish780386/Leetcode-Solution/tree/master/0400-nth-digit) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0099-recover-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0099-recover-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 ## Math
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0099-recover-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
