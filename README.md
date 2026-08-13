@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/manish780386/Leetcode-Solution/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/manish780386/Leetcode-Solution/tree/master/0089-gray-code) |
 ## Knapsack Problem
 |  |
