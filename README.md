@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manish780386/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/manish780386/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/manish780386/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/manish780386/Leetcode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
+| [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/manish780386/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/manish780386/Leetcode-Solution/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/manish780386/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/manish780386/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
