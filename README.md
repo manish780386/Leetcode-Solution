@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/manish780386/Leetcode-Solution/tree/master/0204-count-primes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/manish780386/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/manish780386/Leetcode-Solution/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/manish780386/Leetcode-Solution/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/manish780386/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/manish780386/Leetcode-Solution/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/manish780386/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
@@ -283,4 +287,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manish780386/Leetcode-Solution/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
