@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/manish780386/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
