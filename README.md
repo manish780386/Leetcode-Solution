@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/manish780386/Leetcode-Solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/manish780386/Leetcode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0221-maximal-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/manish780386/Leetcode-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
