@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/manish780386/Leetcode-Solution/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/manish780386/Leetcode-Solution/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/manish780386/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/manish780386/Leetcode-Solution/tree/master/0867-transpose-matrix) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/manish780386/Leetcode-Solution/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/manish780386/Leetcode-Solution/tree/master/0888-fair-candy-swap) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manish780386/Leetcode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manish780386/Leetcode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/manish780386/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0933-number-of-recent-calls](https://github.com/manish780386/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
