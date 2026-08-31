@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/manish780386/Leetcode-Solution/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/manish780386/Leetcode-Solution/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Depth-First Search
 |  |
 | ------- |
