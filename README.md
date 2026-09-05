@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/manish780386/Leetcode-Solution/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/manish780386/Leetcode-Solution/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/manish780386/Leetcode-Solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/manish780386/Leetcode-Solution/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/manish780386/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/manish780386/Leetcode-Solution/tree/master/1260-shift-2d-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/manish780386/Leetcode-Solution/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/manish780386/Leetcode-Solution/tree/master/0908-smallest-range-i) |
 | [0976-largest-perimeter-triangle](https://github.com/manish780386/Leetcode-Solution/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/manish780386/Leetcode-Solution/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
