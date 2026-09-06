@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/manish780386/Leetcode-Solution/tree/master/0506-relative-ranks) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/manish780386/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0705-design-hashset](https://github.com/manish780386/Leetcode-Solution/tree/master/0705-design-hashset) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manish780386/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
