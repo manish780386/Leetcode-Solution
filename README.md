@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/manish780386/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/manish780386/Leetcode-Solution/tree/master/0204-count-primes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/manish780386/Leetcode-Solution/tree/master/0390-elimination-game) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/manish780386/Leetcode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/manish780386/Leetcode-Solution/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/manish780386/Leetcode-Solution/tree/master/0279-perfect-squares) |
 | [0746-min-cost-climbing-stairs](https://github.com/manish780386/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/manish780386/Leetcode-Solution/tree/master/1025-divisor-game) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/manish780386/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manish780386/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/manish780386/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/manish780386/Leetcode-Solution/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/manish780386/Leetcode-Solution/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -371,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/manish780386/Leetcode-Solution/tree/master/0976-largest-perimeter-triangle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
