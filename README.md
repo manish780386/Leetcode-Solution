@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/manish780386/Leetcode-Solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/manish780386/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0500-keyboard-row](https://github.com/manish780386/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manish780386/Leetcode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/manish780386/Leetcode-Solution/tree/master/1154-day-of-the-year) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/manish780386/Leetcode-Solution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/manish780386/Leetcode-Solution/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/manish780386/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/manish780386/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/manish780386/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/manish780386/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/manish780386/Leetcode-Solution/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
